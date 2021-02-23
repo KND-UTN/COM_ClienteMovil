@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "399028754858",
+    "project_id": "wall-e-3b1d4",
+    "storage_bucket": "wall-e-3b1d4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:399028754858:android:f6a3ea1f414fb91f9673d3",
+        "android_client_info": {
+          "package_name": "com.example.wall_e"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "399028754858-82af0neki94q5his9it7ma64r1i91p62.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD-s-VpaCtPElnUM80XK6nb_fJgyBxcPHA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "399028754858-82af0neki94q5his9it7ma64r1i91p62.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

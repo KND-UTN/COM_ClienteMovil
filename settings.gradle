@@ -1,2 +1,2 @@
 include ':app'
-rootProject.name = "WalleController"
+rootProject.name = "Wall-e"
